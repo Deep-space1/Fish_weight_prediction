@@ -26,4 +26,11 @@
 - Random Forest Regressor
 - XGboost Regressor
 
+
+
+### Results:
+![image](https://user-images.githubusercontent.com/86626839/176520126-a5c6070f-a55c-4e98-b558-2fac529cefb2.png)
+
+
+
 ##### Please refer to the notebook for step by step analysis and the results.
